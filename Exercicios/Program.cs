@@ -8,7 +8,7 @@ namespace Exercicios
         {
             int continuar = 1;
 
-            Console.WriteLine("Seja bem vindo à lista de exercícios de estruturas condicionais. A seguir será fornecido o tópico dos 8 exercícios onde você poderá escolher um deles para testar.");
+            Console.WriteLine("Seja bem vindo à lista de exercícios de estruturas de repetição For. A seguir será fornecido o tópico dos 8 exercícios onde você poderá escolher um deles para testar.");
 
             while (continuar != 0)
             {
